@@ -1,0 +1,132 @@
+# Byte-compiled / optimizasiya ve DLL filellari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extension
+*.so
+
+# Distribution / Packer
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Py Yukleyici
+*.manifest
+*.spec
+
+# Yukleyici loglari
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage bildirimleri ve dahasi
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translator xidmeti
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx belgeleri:
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+# install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; istifade eledim: e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff:
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parse filellari
+*.sage.py
+
+# Gereksinimler
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project ayarlari
+.spyderproject
+.spyproject
+
+# Rope project ayarlari
+.ropeproject
+
+# mkdocs docu
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Py re tip yoxlayici
+.pyre/
+
+# config filellari
+config.ini
+config.env
+.vscode/
+*.session
+log.txt
+unknown_errors.txt
