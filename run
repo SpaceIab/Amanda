@@ -3,4 +3,4 @@
 # Copyright (C) 2020 by wertin
 # All rights reserved.
 
-python3.8 -m assistant
+python3.8 -m amanda
