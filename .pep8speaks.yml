@@ -1,0 +1,13 @@
+# File : .pep8speaks.yml
+
+scanner:
+    linter: flake8
+
+flake8:
+    max-line-length: 100
+
+message:
+    opened:
+        header: "@{name}, Teshekkurler PR."
+    updated:
+        header: "@{name}, Teshekkurler update ucun PR."
